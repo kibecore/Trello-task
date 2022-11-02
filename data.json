@@ -1,0 +1,44 @@
+{
+    "todo":[
+        {
+            "title": "Task 1"
+            
+        },
+        {
+            "title": "Task 2"
+            
+        },
+        {
+            "title": "Task 3"
+            
+        }
+    ],
+    "inwork":[
+        {
+            "title": "Task 1"
+            
+        },
+        {
+            "title": "Task 2"
+            
+        },
+        {
+            "title": "Task 3"
+            
+        }
+    ],
+    "review":[
+        {
+            "title": "Task 1"
+            
+        },
+        {
+            "title": "Task 2"
+            
+        },
+        {
+            "title": "Task 3"
+            
+        }
+    ]
+}
